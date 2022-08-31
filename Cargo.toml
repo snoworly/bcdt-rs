@@ -2,11 +2,11 @@
 name = "bcdt"
 version = "0.1.0"
 edition = "2021"
-description = "Datetime format that allows on-chain search and lookups on Solana with memcmp.."
+description = "Datetime format developed for magic.markets to enable Solana on-chain lookups with memcmp."
 authors = ["Snow Orly <snoworly@pm.me>"]
 repository = "https://github.com/snoworly/bcdt-rs"
 license = "MIT"
-keywords = ["solana", "time", "magicmarkets"]
+keywords = ["solana", "magicmarkets"]
 
 [dependencies]
 time = "0.3.12"
