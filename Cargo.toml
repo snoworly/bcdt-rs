@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Datetime format that allows on-chain search and lookups on Solana with memcmp.."
 authors = ["Snow Orly <snoworly@pm.me>"]
-repository = "https://github.com/magicmarkets/anchor-amm-cpi"
+repository = "https://github.com/snoworly/bcdt-rs"
 license = "MIT"
 keywords = ["solana", "time", "magicmarkets"]
 
